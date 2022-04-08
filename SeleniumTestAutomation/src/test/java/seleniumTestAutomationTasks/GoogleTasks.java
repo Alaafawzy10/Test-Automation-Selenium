@@ -201,12 +201,12 @@ public class GoogleTasks {
 		WebDriverManager.chromedriver().setup();
 
 		webDriver = new ChromeDriver();
+		
+		webDriver.manage().window().maximize();
 
 		home = new Home(webDriver);
 
 		home.navigate();
-
-		webDriver.manage().window().maximize();
 
 		table = new Table(webDriver);
 
