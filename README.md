@@ -10,7 +10,7 @@
 - [About Software Tester](#about-software-tester)
 
   ## About this Repository
- This is a Maven Project Executed A Different Test Cases with Selenium In Java and Deal With Google Chrome and FireFox Web Driver
+ This is a Maven Project Execute A Different Test Cases with Selenium In Java and Deal With Google Chrome and FireFox Web Driver.
  
  ## Getting Started
 
