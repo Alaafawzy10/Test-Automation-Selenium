@@ -1,7 +1,7 @@
 # Test-Automation-Selenium
 
 # Table of Content
-- [About this Repository](#about-this-repository)
+- [About Test Automation Selenium](#about-test-automation-selenium)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Features](#features)
@@ -9,7 +9,7 @@
 - [Technologies and Tools](#technologies-and-tools)
 - [About Software Tester](#about-software-tester)
 
-  ## About this Repository
+  ## About Test Automation Selenium
  This is a Maven Project Execute A Different Test Cases with Selenium In Java and Deal With Google Chrome and FireFox Web Driver.
  
  ## Getting Started
