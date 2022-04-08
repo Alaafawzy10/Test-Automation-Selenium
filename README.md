@@ -9,7 +9,7 @@
 - [Technologies and Tools](#technologies-and-tools)
 - [About Software Tester](#about-software-tester)
 
-  ## About Test Automation Selenium
+ ## About Test Automation Selenium
  This is a Maven Project Execute A Different Test Cases with Selenium In Java and Deal With Google Chrome and FireFox Web Driver.
  
  ## Getting Started
@@ -23,12 +23,12 @@ Or you can simply download the code from here https://github.com/Alaafawzy10/Tes
 <li> Open the project on your Eclipse 
 <li> Click on the run button
   
-  ## Prerequisites
+## Prerequisites
 - Java Development Kit (JDK) - JDK 17 - latest installable version: https://www.oracle.com/java/technologies/downloads/#jdk17-windows.
 - Eclipse IDE for Enterprise Java and Web Developers - latest portable version: http://www.eclipse.org/downloads/eclipse-packages/.
 - TestNG Eclipse plugin - Latest Version: https://testng.org/doc/download.html.
 
-  # Features
+# Features
   ## Google
   - Assert that the page title is [Google] .
   - Assert that the Google logo is displayed .
@@ -41,7 +41,7 @@ Or you can simply download the code from here https://github.com/Alaafawzy10/Tes
   - Drag and drop File and Assert that the text has been changed to [Dropped!] .
   - Read JSON File Data and Search With it on Google Chrome and Assert that the text of the tiltels in the JSONArray are Identical .
   
-  ## FireFox
+ ## FireFox
   - Search for [TestNG] and Assert that the text of the fourth result is [TestNG Tutorial] .
 ## Languages
   - JAVA
@@ -51,7 +51,7 @@ Or you can simply download the code from here https://github.com/Alaafawzy10/Tes
   - Maven Project [https://maven.apache.org/]
   - Page Opject Model Design Pattern [https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/]
   
-  ## About Software Tester
+## About Software Tester
   <div align="center">
   ALaa Mahmoud Fawzy is a Software Testing Engineer
   </div>
